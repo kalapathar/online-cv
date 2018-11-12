@@ -98,12 +98,12 @@ experiences:
 
     - role: Grader & Network Researcher
       time: 2017 - 2018
-      company: Google, London
+      company: St. Olaf College, Northfield
       details: |
-        I was t
-
-          - Bullet point
-          - Bullet point
+          - Developed a python script to auto grade assignments of students 
+          - Inspect packets and network traffic using Wireshark & understand the headers in depth
+          - Set up IPv6 lab in virtual environment for testing and find the differences between IPv4/IPv6 before deploying Ipv6
+          
 
     - role: Senior Technology Consultant
       time: 2014 - 2018
