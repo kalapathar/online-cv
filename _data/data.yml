@@ -107,16 +107,13 @@ experiences:
 
     - role: Senior Technology Consultant
       time: 2014 - 2018
-      company: Amazon, London
+      company: St. Olaf College, Northfield
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+            As a technology Consultant, I helped students diagnose the network, printer, hardware failure or software related issues on their personal computers.
+            Apart from that, I provided trainings to new technology consultants on the basic troubleshooting steps. 
 
-          - Bullet point
-          - Bullet point
+          - Fix network related problems. For example- IP Conflict, DNS failures or simple Wi-Fi troubleshooting
+          - Fix printer issues - change toner,load papers, change cartridge, etc
 
 projects:
     title: Projects
