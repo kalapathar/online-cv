@@ -84,23 +84,23 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Full Stack Developer
+    - role: Full Stack Software Engineer
       time: 2018 - Present
       company: Kipsu, Inc
       details: |
-        K
-          - Bullet point
-          - Bullet point 
+        I have been working with mindful, intelligent and humble software developers. Small team environments and pair programming is common. 
+        While I work on a wide range of projects, I focus in the security area at Kipsu. 
+          - Add functionalities on the web application built with Codeigniter, a PHP framework & ActiveRecord as well as SQL
+          - Detect security vulnerabilities (OWASP Top 10) on the application and fix them
+          - Configure ansible-playbooks to automate application deployment
+          - Build, deploy and troubleshoot ec2 instances on AWS
+
 
     - role: Grader & Network Researcher
       time: 2017 - 2018
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I was t
 
           - Bullet point
           - Bullet point
@@ -183,6 +183,9 @@ skills:
         level: 80%
 
       - name: React
+        level: 80%
+
+      - name: C++
         level: 80%
 
       - name: HTML5 & CSS
