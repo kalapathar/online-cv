@@ -64,11 +64,8 @@ education:
       university: St. Olaf College
       time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Relevant Courses: Mobile Computing Apps, Algorithms, Machine Learning, Hardware Design, Software Design, Computer
+        Networks, Web App Development, Blockchain, Abstract Algebra, Probability, Real Analysis, Statistics, Data Analysis
 
           - Bullet point
           - Bullet point 
@@ -130,23 +127,23 @@ projects:
 
     assignments:
       - title: Stovote- A blockchain-based voting
-        link: "#hook"
+        link: "https://github.com/kalapathar/stovoting"
         tagline: "A DApp that allows students to cast votes. Votes are recorded on the immutable blockchain & anyone can verify their votes."
 
       - title: Stager
-        link: "#"
+        link: "https://github.com/kalapathar/stager"
         tagline: "A web application for backstage crew to interact with the audiences (via the mobile app) in the theater room."
 
       - title: OrderPizza
-        link: "#"
+        link: "https://github.com/kalapathar/Orderpizza"
         tagline: "A mobile application developed for St. Olaf Campus Cafeteria to receive pizza & food orders from students"
 
       - title: Mindmuscle
-        link: "#"
+        link: "https://github.com/kalapathar/mindmuscle"
         tagline: "Mind Muscle is a game that allows you to measure, train and track your ability to focus. It is designed to be used in conjunction with the Neurosky EEG (electroencephalogram) headset, giving you an easy way to gauge your own level of focus, and providing an interface for further analysis."
 
       - title: ClassifyImages
-        link: "#"
+        link: "https://github.com/kalapathar/image_classification"
         tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuaracy of 88%."
 
 publications:
