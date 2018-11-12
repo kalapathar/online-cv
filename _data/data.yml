@@ -102,7 +102,7 @@ experiences:
       details: |
           I was the grader for Hardware Design Class and I graded assignments for 35 students. Apart from being a grader, I also served as an Ipv6 researcher. After receiving
           a training on Ipv6, I set up a virtual environment to understand the differences between Ipv4 and Ipv6.
-          
+
           - Developed a python script to auto grade assignments of students 
           - Inspect packets and network traffic using Wireshark & understand the headers in depth
           - Set up IPv6 lab in virtual environment for testing and find the differences between IPv4/IPv6 before deploying Ipv6
@@ -130,7 +130,7 @@ projects:
 
       - title: Stager
         link: "https://github.com/kalapathar/stager"
-        tagline: "A web application for backstage crew to interact with the audiences (via the mobile app) in the theater room."
+        tagline: "A web application for backstage crew to interact with the audiences via the mobile app in the theater room."
 
       - title: OrderPizza
         link: "https://github.com/kalapathar/Orderpizza"
@@ -142,7 +142,7 @@ projects:
 
       - title: ClassifyImages
         link: "https://github.com/kalapathar/image_classification"
-        tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuaracy of 88%."
+        tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuracy of 88%."
 
 publications:
     title: Publications
