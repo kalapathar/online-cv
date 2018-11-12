@@ -25,16 +25,21 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Nepali
         level: Native
 
-      - idiom: French
+      - idiom: Hindi
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Hungarian
+        level: Beginner
+
+
         
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
       - item: Snowboarding
@@ -68,7 +73,7 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
+    - degree: Graduate Courses in Cryptography, Combinatorics & Graph Theory
       university: Budapest Semester in Mathematics
       time: 2016 - 2016
       details: |
@@ -99,8 +104,8 @@ experiences:
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+    - role: Grader & Network Researcher
+      time: 2017 - 2018
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -112,8 +117,8 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: Senior Technology Consultant
+      time: 2014 - 2018
       company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -133,25 +138,25 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Stovote- A blockchain-based voting
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A DApp that allows students to cast votes. Votes are recorded on the immutable blockchain & anyone can verify their votes."
 
-      - title: DevStudio
+      - title: Stager
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A web application for backstage crew to interact with the audiences (via the mobile app) in the theater room."
 
-      - title: Tempo
+      - title: OrderPizza
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A mobile application developed for St. Olaf Campus Cafeteria to receive pizza & food orders from students"
 
-      - title: Atom
+      - title: Mindmuscle
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Mind Muscle is a game that allows you to measure, train and track your ability to focus. It is designed to be used in conjunction with the Neurosky EEG (electroencephalogram) headset, giving you an easy way to gauge your own level of focus, and providing an interface for further analysis."
 
-      - title: Delta
+      - title: ClassifyImages
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuaracy of 88%."
 
 publications:
     title: Publications
@@ -183,16 +188,19 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: PHP & Code Ignitor
+        level: 90%
+
+      - name: Ansible and AWS
+        level: 80%
+
+      - name: React
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Blockchain and Cryptography
         level: 60%
 
 footer: >
