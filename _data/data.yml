@@ -127,31 +127,26 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Stovote- A blockchain-based voting
+        link: "https://github.com/kalapathar/stovoting"
+        tagline: "A DApp that allows students to cast votes. Votes are recorded on the immutable blockchain & anyone can verify their votes."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Stager
+        link: "https://github.com/kalapathar/stager"
+        tagline: "A web application for backstage crew to interact with the audiences via the mobile app in the theater room."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: OrderPizza
+        link: "https://github.com/kalapathar/Orderpizza"
+        tagline: "A mobile application developed for St. Olaf Campus Cafeteria to receive pizza & food orders from students"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Mindmuscle
+        link: "https://github.com/kalapathar/mindmuscle"
+        tagline: "Mind Muscle is a game that allows you to measure, train and track your ability to focus. It is designed to be used in conjunction with the Neurosky EEG (electroencephalogram) headset, giving you an easy way to gauge your own level of focus, and providing an interface for further analysis."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: ClassifyImages
+        link: "https://github.com/kalapathar/image_classification"
+        tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuracy of 88%."
 
 publications:
     title: Publications
