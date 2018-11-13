@@ -148,19 +148,19 @@ publications:
 
     papers:
       - title: ETH SanFrancisco
-        authors: A
+        authors: 
         conference: Developed Blockloyal, a DApp to transfer loyalty points between people
 
       - title: Clinton Global Initiative
-        authors: B
+        authors: 
         conference: Pitched about our project collegesodhpuch.com which connects
 
       - title: Founder of Collegesodhpuch.com
-        authors: V
+        authors: 
         conference: A college forum where experienced and successful college students from 
 
       - title: Founder of madhesiyouth.com
-        authors: E
+        authors: 
         conference: Make color coded maps, and perform data visualizations using python and R on political
 
 skills:
