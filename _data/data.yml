@@ -140,7 +140,7 @@ projects:
         tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuracy of 88%."
 
 publications:
-    title: Publications
+    title: Activities
     intro: |
       You can lists your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -148,15 +148,15 @@ publications:
 
     papers:
       - title: The Art of Computer Programming
-        authors: Donald E. Knuth
+        authors: 
         conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        authors: 
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
+        authors: 
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
