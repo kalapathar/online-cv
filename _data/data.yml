@@ -82,53 +82,45 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Full Stack Software Engineer
+      time: 2018 - Present
+      company: Kipsu, Inc
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I have been working with mindful, intelligent and humble software developers. Small team environments and pair programming is common. 
+        While I work on a wide range of projects, I focus in the security area at Kipsu. 
+        
+          - Add functionalities on the web application built with Codeigniter, a PHP framework & ActiveRecord as well as SQL
+          - Detect security vulnerabilities (OWASP Top 10) on the application and fix them
+          - Configure ansible-playbooks to automate application deployment
+          - Build, deploy and troubleshoot ec2 instances on AWS
 
-          - Bullet point
-          - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Grader & Network Researcher
+      time: 2017 - 2018
+      company: MSCS Department, St. Olaf
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I was the grader for Hardware Design Class and I graded assignments for 35 students. Apart from being a grader, I also served as an Ipv6 researcher. After receiving
+        a training on Ipv6, I set up a virtual environment to understand the differences between Ipv4 and Ipv6.
 
-          - Bullet point
-          - Bullet point
+          - Developed a python script to auto grade assignments of students 
+          - Inspect packets and network traffic using Wireshark & understand the headers in depth
+          - Set up IPv6 lab in virtual environment for testing and find the differences between IPv4/IPv6 before deploying Ipv6
+          
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Technology Consultant
+      time: 2014 - 2018
+      company: St. Olaf College, Northfield
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As a technology Consultant, I helped students diagnose the network, printer, hardware failure or software related issues on their personal computers.
+        Apart from that, I provided trainings to new technology consultants on the basic troubleshooting steps. 
 
-          - Bullet point
-          - Bullet point
+          - Fix network related problems. For example- IP Conflict, DNS failures or simple Wi-Fi troubleshooting
+          - Fix printer issues - change toner,load papers, change cartridge, etc
 
 projects:
     title: Projects
     assignments:
-      - title: Stovote- A blockchain-based voting
+      - title: Stovote, a blockchain-based voting
         link: "https://github.com/kalapathar/stovoting"
         tagline: "A DApp that allows students to cast votes. Votes are recorded on the immutable blockchain & anyone can verify their votes."
 
