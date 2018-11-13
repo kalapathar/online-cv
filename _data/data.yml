@@ -183,17 +183,26 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: PHP & Code Ignitor
+        level: 90%
+
+      - name: Ansible & Amazon Web Services (AWS)
+        level: 80%
+
+      - name: React
+        level: 80%
+
+      - name: C++
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Blockchain & Cryptography
         level: 60%
+
+      - name: TCP/IP & Computer Security
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
