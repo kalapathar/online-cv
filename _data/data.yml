@@ -142,12 +142,10 @@ projects:
 publications:
     title: Activities
     intro: |
-      You can lists your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Whenever opportunity comes my way, I attend conferences and work on side projects.
 
     papers:
-      - title: ETH SanFrancisco
+      - title: ETH SanFrancisco Hackathon and Conference
         authors: 
         conference: Developed Blockloyal, a DApp to transfer loyalty points on ethereum blockchain
 
@@ -155,7 +153,7 @@ publications:
         authors: 
         conference: Pitched about our project collegesodhpuch.com which connects high school students from under priviledged communities to successful college graduates from all over the world
 
-      - title: Founder of Collegesodhpuch.com
+      - title: Founder of collegesodhpuch.com
         authors: 
         conference: A college forum where experienced and successful college students from 30 prestigious institutions in several countries provide suggestions and informations to advice seeking college applicants
 
