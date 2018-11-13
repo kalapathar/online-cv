@@ -102,7 +102,6 @@ experiences:
       details: |
         I was the grader for Hardware Design Class and I graded assignments for 35 students. Apart from being a grader, I also served as an Ipv6 researcher. After receiving
         a training on Ipv6, I set up a virtual environment to understand the differences between Ipv4 and Ipv6.
-
           - Developed a python script to auto grade assignments of students 
           - Inspect packets and network traffic using Wireshark & understand the headers in depth
           - Set up IPv6 lab in virtual environment for testing and find the differences between IPv4/IPv6 before deploying Ipv6
