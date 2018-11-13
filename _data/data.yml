@@ -90,21 +90,31 @@ experiences:
         I have been working with mindful, intelligent and humble software developers. Small team environments and pair programming is common. 
         While I work on a wide range of projects, I focus in the security area at Kipsu. 
         
-          - Add functionalities on the web application built with Codeigniter, a PHP framework & ActiveRecord as well as SQL
+          - Add functionalities on the web application built with Codeigniter, a PHP framework & ActiveRecord + SQL
           - Detect security vulnerabilities (OWASP Top 10) on the application and fix them
-          - Configure ansible-playbooks to automate application deployment
-          - Build, deploy and troubleshoot ec2 instances on AWS
+          - Configure ansible-playbooks to automate application deployment in AWS
+          - Write test plans, design documentations and practice Scrum, an agile framework 
 
     - role: Grader & Network Researcher
       time: 2017 - 2018
       company: MSCS Department, St. Olaf
       details: |
-        I was the grader for Hardware Design Class and I graded assignments for 35 students. Apart from being a grader, I also served as an Ipv6 researcher. After receiving
-        a training on Ipv6, I set up a virtual environment to understand the differences between Ipv4 and Ipv6.
+        I was the grader for Hardware Design Class and I graded assignments for 35 students. Apart from being a grader, I also served as an IPv6 researcher. After receiving
+        a training on IPv6, I set up a virtual environment to understand the differences between IPv4 and IPv6.
 
           - Developed a python script to auto grade assignments of students 
-          - Inspect packets and network traffic using Wireshark & understand the headers in depth
+          - Inspect packets and network traffic using Wireshark & understand the packet headers in depth
           - Set up IPv6 lab in virtual environment for testing and find the differences between IPv4/IPv6 before deploying Ipv6
+
+    - role: IT Development Intern
+      time: 2016 - 2016
+      company: IDInsight, Minneapolis
+      details: |
+        IDInsight provides information-based decisions to financial instituations to avoid fraud losses, reduce operational costs and improve customer experiences.
+
+          - Developed scripts in Python to standardize U.S street addresses as recognized by the USPS (United States Postal Service)
+          - Built five models using machine learning algorithms to predict the addresses and compared the error rate
+          - Enhanced my knowledge on Apache server, PostGIS, PostgreSQL and C++ code debugging skills
 
     - role: Senior Technology Consultant
       time: 2014 - 2018
@@ -114,7 +124,8 @@ experiences:
         Apart from that, I provided trainings to new technology consultants on the basic troubleshooting steps. 
 
           - Fix network related problems. For example- IP Conflict, DNS failures or simple Wi-Fi troubleshooting
-          - Fix printer issues - change toner,load papers, change cartridge, etc
+          - Fix printer issues
+          
 
 projects:
     title: Projects
@@ -143,7 +154,6 @@ publications:
     title: Activities
     intro: |
       Whenever opportunity comes my way, I attend conferences and work on side projects.
-
     papers:
       - title: ETH SanFrancisco Hackathon and Conference
         authors: 
