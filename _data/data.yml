@@ -55,22 +55,19 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.A. in Computer Science & Mathematics
+      university: St. Olaf College
+      time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Relevant Courses: Mobile Computing Apps, Algorithms, Machine Learning, Hardware Design, Software Design, Computer
+        Networks, Web App Development, Blockchain, Abstract Algebra, Probability, Real Analysis, Statistics, Data Analysis
 
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Graduate Courses in Cryptography, Combinatorics & Graph Theory
+      university: Budapest Semester in Mathematics
+      time: 2016 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -94,7 +91,6 @@ experiences:
           - Configure ansible-playbooks to automate application deployment
           - Build, deploy and troubleshoot ec2 instances on AWS
 
-
     - role: Grader & Network Researcher
       time: 2017 - 2018
       company: MSCS Department, St. Olaf
@@ -105,7 +101,6 @@ experiences:
           - Developed a python script to auto grade assignments of students 
           - Inspect packets and network traffic using Wireshark & understand the headers in depth
           - Set up IPv6 lab in virtual environment for testing and find the differences between IPv4/IPv6 before deploying Ipv6
-          
 
     - role: Senior Technology Consultant
       time: 2014 - 2018
