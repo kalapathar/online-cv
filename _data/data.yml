@@ -121,7 +121,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      
+      Write the title here
 
     assignments:
       - title: Stovote- A blockchain-based voting
@@ -165,7 +165,7 @@ publications:
       - title: Founder of madhesiyouth.com
         conference: Make color coded maps, and perform data visualizations using python and R on political,
         economical and social issues of marginalized groups in Nepal
-        
+
 skills:
     title: Skills &amp; Proficiency
 
