@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Deepak Shah
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: kalopatthar@gmail.com
+    phone: 
+    website: kalapathar.github.io #do not add http://
+    linkedin: deepak-shah-5375945b
+    github: kalapathar
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -25,16 +25,21 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Nepali
         level: Native
 
-      - idiom: French
+      - idiom: Hindi
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Hungarian
+        level: Beginner
+
+
         
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
       - item: Snowboarding
