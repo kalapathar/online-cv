@@ -50,12 +50,11 @@ sidebar:
 
       - item: Travelling
         link:
-
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [https://kalapathar.github.io/online-cv/]().
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [https://kalapathar.github.io/online-cv/]().
       I am a full stack developer currently working at Kipsu in Minneapolis. 
       I graduated from St. Olaf with dual-degrees in Computer Science and Mathematics. 
       Blockchain, Cryptography and Computer Networks are my top interests.
