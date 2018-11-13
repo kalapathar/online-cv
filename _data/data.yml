@@ -147,17 +147,18 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
+      - title: ETH SanFrancisco
         authors: 
-        conference: Addison-Wesley, 1968
+        conference: Developed Blockloyal, a DApp to transfer loyalty points between people
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Clinton Global Initiative
         authors: 
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: Pitched about our project collegesodhpuch.com which connects high school students from under priviledged communities to successful college graduates from all over the world.
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Founder of Collegesodhpuch.com
         authors: 
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: A college forum where experienced and successful college students from 30 prestigious institutions in several countries provide suggestions and
+        informations to advice seeking college applicants
 
 skills:
     title: Skills &amp; Proficiency
