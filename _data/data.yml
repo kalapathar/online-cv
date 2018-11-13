@@ -120,9 +120,6 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      Write the title here
-
     assignments:
       - title: Stovote- A blockchain-based voting
         link: "https://github.com/kalapathar/stovoting"
