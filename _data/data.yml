@@ -139,26 +139,29 @@ projects:
         link: "https://github.com/kalapathar/image_classification"
         tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuracy of 88%."
 
-publications:
-    title: Activities
-    intro: |
-      You can lists your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+projects:
+    title: Projects
+    assignments:
+      - title: Stovote, a blockchain-based voting
+        link: "https://github.com/kalapathar/stovoting"
+        tagline: "A DApp that allows students to cast votes. Votes are recorded on the immutable blockchain & anyone can verify their votes."
 
-    papers:
-      - title: ETH SanFrancisco
-        authors: 
-        conference: Developed Blockloyal, a DApp to transfer loyalty points between people
+      - title: Stager
+        link: "https://github.com/kalapathar/stager"
+        tagline: "A web application for backstage crew to interact with the audiences via the mobile app in the theater room."
 
-      - title: Clinton Global Initiative
-        authors: 
-        conference: Pitched about our project collegesodhpuch.com which connects high school students from under priviledged communities to successful college graduates from all over the world.
+      - title: OrderPizza
+        link: "https://github.com/kalapathar/Orderpizza"
+        tagline: "A mobile application developed for St. Olaf Campus Cafeteria to receive pizza & food orders from students"
 
-      - title: Founder of Collegesodhpuch.com
-        authors: 
-        conference: A college forum where experienced and successful college students from 30 prestigious institutions in several countries provide suggestions and
-        informations to advice seeking college applicants
+      - title: Mindmuscle
+        link: "https://github.com/kalapathar/mindmuscle"
+        tagline: "Mind Muscle is a game that allows you to measure, train and track your ability to focus. It is designed to be used in conjunction with the Neurosky EEG (electroencephalogram) headset, giving you an easy way to gauge your own level of focus, and providing an interface for further analysis."
+
+      - title: ClassifyImages
+        link: "https://github.com/kalapathar/image_classification"
+        tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuracy of 88%."
+
 
 skills:
     title: Skills &amp; Proficiency
