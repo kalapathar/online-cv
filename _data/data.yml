@@ -19,7 +19,7 @@ sidebar:
     github: kalapathar
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@kalopatthar'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -198,7 +198,7 @@ skills:
 
       - name: TCP/IP & Computer Security
         level: 70%
-        
+
       - name: Blockchain & Cryptography
         level: 60%
 
