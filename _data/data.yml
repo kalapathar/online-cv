@@ -99,8 +99,8 @@ experiences:
       time: 2017 - 2018
       company: MSCS Department, St. Olaf
       details: |
-        I was the grader for Hardware Design Class and I graded assignments for 35 students. Apart from being a grader, I also served as an IPv6 researcher. After receiving
-        a training on IPv6, I set up a virtual environment to understand the differences between IPv4 and IPv6.
+        I was the grader for Hardware Design Class and I graded assignments for 35 students. Apart from being a grader, I also served as an Ipv6 researcher. After receiving
+        a training on Ipv6, I set up a virtual environment to understand the differences between Ipv4 and Ipv6.
 
           - Developed a python script to auto grade assignments of students 
           - Inspect packets and network traffic using Wireshark & understand the headers in depth
@@ -140,26 +140,24 @@ projects:
         tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuracy of 88%."
 
 publications:
-    title: Conferences and Achievements
+    title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: ETH SanFrancisco
-        conference: Developed Blockloyal, a DApp to transfer loyalty points on ethereum blockchain
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: Clinton Global Initiative
-        conference: Pitched about our project collegesodhpuch.com which connects high school students from under priviledged communities to successful college graduates from all over the world. 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Founder of Collegesodhpuch.com
-        conference: A college forum where experienced and successful college students from 30 prestigious institutions in several countries provide suggestions and
-        informations to advice seeking college applicants
-
-      - title: Founder of madhesiyouth.com
-        conference: Make color coded maps, and perform data visualizations using python and R on political,
-        economical and social issues of marginalized groups in Nepal
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
