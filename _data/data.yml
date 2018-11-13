@@ -163,7 +163,7 @@ publications:
         authors: 
         conference: Pitched about our project collegesodhpuch.com which connects high school students from under priviledged communities to successful college graduates from all over the world
 
-      - title: Founder of [http://collegesodhpuch.com/]()
+      - title: Founder of collegesodhpuch
         authors: 
         conference: A college forum where experienced and successful college students from 30 prestigious institutions in several countries provide suggestions and informations to advice seeking college applicants
 
@@ -181,6 +181,9 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
+      - name: HTML5 & CSS
+        level: 95%
+
       - name: PHP & Code Ignitor
         level: 90%
 
@@ -193,14 +196,13 @@ skills:
       - name: C++
         level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
+      - name: TCP/IP & Computer Security
+        level: 70%
+        
       - name: Blockchain & Cryptography
         level: 60%
 
-      - name: TCP/IP & Computer Security
-        level: 70%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
