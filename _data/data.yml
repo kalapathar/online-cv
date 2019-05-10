@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Deepak Shah
-    tagline: Full Stack Developer
+    tagline: Cyber Security Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,7 +45,7 @@ sidebar:
       - item: Playing Harmonica
         link:
 
-      - item: Cooking
+      - item: Deep Talks
         link:
 
       - item: Travelling
@@ -55,7 +55,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a full stack developer currently working at Kipsu in Minneapolis. 
+      I am a cyber security engineer at Sports Engine (owned by NBC Sports). Currently I am learning skills and techniques to protect networking systems from potential hackers and cyber-attacks. 
+      Before working at Sports Engine, I was a full stack developer at Kipsu in Minneapolis. 
       I graduated from St. Olaf with dual-degrees in Computer Science and Mathematics. 
       Blockchain, Cryptography and Computer Networks are my top interests.
 
@@ -83,12 +84,24 @@ education:
           - Bullet point 
 
 experiences:
+    - role: Cyber Security Engineer
+      time: 2019 - Present
+      company: SportsEngine
+      details: |
+        My work spans multiple skill sets, from Security Engineer to Operations to Software Developer.   
+        
+          - Leverage security tools and services to protect customer data including intrusion detection systems, web application firewalls, vulnerability scanners, static code analysis tools and more.
+          - Configure, deploy and manage servers across Amazon EC2 instances using Infrastructure automation tools like Terraform and Cloudformation 
+          - Design, implement, and maintain secure networks and VPNs on AWS.
+          - Use AWS OpsWOrks, a configuration management service for Chef - an automation platform that uses code to configure the servers 
+          - Future Work - Migrate the existing Opswork Stacks to use containerized platforms - Docker and manage Docker containers using Kubernetes cluster
+
     - role: Full Stack Software Engineer
-      time: 2018 - Present
+      time: 2018 - 2019
       company: Kipsu, Inc
       details: |
-        I have been working with mindful, intelligent and humble software developers. Small team environments and pair programming is common. 
-        While I work on a wide range of projects, I focus in the security area at Kipsu. 
+        I got an opportunity to work with mindful, intelligent and humble software developers. Small team environments and pair programming were common. 
+        While I worked on a wide range of projects, I focused in the security area at Kipsu. 
         
           - Add functionalities on the web application built with Codeigniter, a PHP framework & ActiveRecord + SQL
           - Detect security vulnerabilities (OWASP Top 10) on the application and fix them
@@ -178,29 +191,29 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Amazon Web Services (AWS)
+        level: 85%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Networking & Computer Security
+        level: 84%
+
+      - name: Ansible & Chef
+        level: 80%
+
+      - name: Terraform
+        level: 60%
 
       - name: PHP & Code Ignitor
-        level: 90%
-
-      - name: Ansible & Amazon Web Services (AWS)
-        level: 80%
-
-      - name: React
-        level: 80%
+        level: 60%
 
       - name: C++
-        level: 80%
-
-      - name: TCP/IP & Computer Security
-        level: 70%
+        level: 60%
 
       - name: Blockchain & Cryptography
         level: 60%
+
+      - name: Javascript & jQuery
+        level: 58%
 
 
 
