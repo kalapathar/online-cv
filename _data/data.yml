@@ -168,7 +168,7 @@ publications:
     papers:
       - title: AWS RE:INFORCE
         authors: 
-        tagline: A cloud-security conference where I learnt about HSM vs KMS Encryption, AWS GuardDuty, VPC Mirroring and many other AWS services
+        conference: A cloud-security conference where I learnt about HSM vs KMS Encryption, AWS GuardDuty, VPC Mirroring and many other AWS services
       
       - title: ETH SanFrancisco Hackathon and Conference
         authors: 
