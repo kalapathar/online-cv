@@ -35,8 +35,6 @@ sidebar:
 
       - idiom: Hungarian
         level: Beginner
-
-
         
     interests:
       - item: Hiking
@@ -143,6 +141,10 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: AWS RE:INFORCE
+        link: "https://reinforce.awsevents.com/"
+        tagline: A cloud-security conference where I learnt about HSM vs KMS Encryption, AWS GuardDuty, VPC Mirroring and many other AWS services
+      
       - title: Stovote, a blockchain-based voting
         link: "https://github.com/kalapathar/stovoting"
         tagline: "A DApp that allows students to cast votes. Votes are recorded on the immutable blockchain & anyone can verify their votes."
