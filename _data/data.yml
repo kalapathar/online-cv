@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Deepak Shah
-    tagline: Cyber Security Engineer
+    tagline: Cyber Security Engineer at NBC
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -88,10 +88,14 @@ experiences:
       details: |
         My work spans multiple skill sets, from Security Engineer to Operations to Software Developer.   
         
-          - Leverage security tools and services to protect customer data including intrusion detection systems, web application firewalls, vulnerability scanners, static code analysis tools and more.
-          - Configure, deploy and manage servers across Amazon EC2 instances using Infrastructure automation tools like Terraform and Cloudformation 
-          - Design, implement, and maintain secure networks and VPNs on AWS.
-          - Use AWS OpsWOrks, a configuration management service for Chef - an automation platform that uses code to configure the servers 
+          - Leverage security tools and services to protect customer data including intrusion detection systems (ThreatStack), web application firewalls, vulnerability scanners (Qualys), static code analysis tools (Veracode) and more.
+          - Incident Response Team - Investigated a customer-affecting security incident and tracked down the cause of the incident within 10 hours and shared the results with the team
+          - Follow best security practices - Defense in Depth, Least Priviledge, Separation of duties, SIEM for event logging
+          - In depth mathematical knowledge of Symmetric Encryption (AES-256 used by KMS and CloudHSM) and Assymetric Encryption (Public and Private Cryptography)
+          - Configure, deploy and manage AWS resources using Infrastructure automation tools like Terraform and Cloudformation 
+          - Create VPC’s, having multiple AZ’s, Public and Private subnets, Components like IGW, Route tables, NAT instance, Bastion Host, Route 53, Network ACLs, Security groups.
+          - Write custom Chef cookbooks to deploy and manage servers in AWS OpsWOrks 
+          - Created packer templates to build EC2 AMI and wrote Chef InSpec tests to verify the installed packages and libraries
           - Future Work - Migrate the existing Opswork Stacks to use containerized platforms - Docker and manage Docker containers using Kubernetes cluster
 
     - role: Full Stack Software Engineer
