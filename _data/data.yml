@@ -15,7 +15,7 @@ sidebar:
     email: kalopatthar@gmail.com
     phone: 
     website: kalapathar.github.io #do not add http://
-    linkedin: deepak-shah-5375945b
+    linkedin: kalapathar
     github: kalapathar
     gitlab:
     bitbucket:
@@ -40,7 +40,7 @@ sidebar:
       - item: Hiking
         link:
 
-      - item: Playing Harmonica
+      - item: Coding for Good
         link:
 
       - item: Deep Talks
@@ -145,6 +145,10 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: Craigs Donor, a community for donors and charities
+        link: "https://devpost.com/software/craigs-help"
+        tagline: "The platform builds an active donor user base by implementing a community building component, including achievements, friends, news feed, groups, messages which encourages users to discuss and interact among themselves."
+
       - title: Stovote, a blockchain-based voting
         link: "https://github.com/kalapathar/stovoting"
         tagline: "A DApp that allows students to cast votes. Votes are recorded on the immutable blockchain & anyone can verify their votes."
@@ -166,70 +170,88 @@ projects:
         tagline: "An image classification project that classifies images of Tree, Car, River, Mountain and Beach with an accuracy of 88%."
 
 publications:
-    title: Publications
+    title: Research Paper
     intro: |
     papers:
       - title: Sign pattern matrices that allow intertia S_n
+        link: https://msp.org/involve/2019/12-7/involve-v12-n7-p11-s.pdf
         authors: Adam H. Berliner, Derek DeBlieck and Deepak Shah
-        conference: https://msp.org/involve/2019/12-7/involve-v12-n7-p11-s.pdf
+        conference: In this paper, we discover all sign pattern matrices of order n that allow inertias in the Set S(n). All sign patterns of order 3 (up to equivalence) that allow S(3) are classified and organized according to their associated directed graphs.
+
+      - title: Blockchain Based Voting
+        link: https://github.com/kalapathar/stovoting/blob/master/paper/Blockchain-based-Voting-Paper.pdf
+        authors: Mazen Abusharkh, Syver Johansen, Deepak Shah, Elif Ilaria Yurtseven
+        conference: This research paper proposes a voting system solution based on the blockchain. As a secured and transparent ledger, the blockchain introduces a potential solution to a decentralized vote validation and a distributed vote counting mechanism, such that the voters need not trust a third party to facilitate the democratic process. We also demonstrate a sample voting application that can be deployed on the Ethereum blockchain.
+ 
         
-publications:
-    title: Activities
+conferences:
+    title: Conferences
     intro: |
-      Whenever opportunity comes my way, I attend conferences and work on side projects.
-    papers:
-      - title: AWS RE:INFORCE
+    papers:    
+      - title: Impact Labs Summit 2020
+        authors: 
+        conference: Connected with entrepreneurs, civic activists, and thought leaders who are leveraging technology for social impact.
+      
+      - title: YCombinator Startup School 2019
+        authors: 
+        conference: This was a 10 weeks summer program where I met with other founders through weekly live video chats and shared tips as well as learnt about progresses about other startups around the world.
+    
+      - title: AWS RE:INFORCE 2019
         authors: 
         conference: A cloud-security conference where I learnt about HSM vs KMS Encryption, AWS GuardDuty, VPC Mirroring and many other AWS services
       
-      - title: ETH SanFrancisco Hackathon and Conference
+      - title: ETH SanFrancisco Hackathon and Conference 2018
         authors: 
         conference: Developed Blockloyal, a DApp to transfer loyalty points on ethereum blockchain
 
-      - title: Clinton Global Initiative
+      - title: Clinton Global Initiative 2017
         authors: 
         conference: Pitched about our project collegesodhpuch.com which connects high school students from under priviledged communities to successful college graduates from all over the world
 
-      - title: Founder of collegesodhpuch
-        authors: 
-        conference: A college forum where experienced and successful college students from 30 prestigious institutions in several countries provide suggestions and informations to advice seeking college applicants
+founded:
+    title: Founder
+    platforms:
+      - title: Launched Corona Status for Nepal
+        link: "https://coronastatusnp.com/"
+        tagline: "A website to keep track of Covid-19 affected areas in Nepal and present the information in a map so that people can learn how safe their neighbourhoods and take actions."
 
-      - title: Founder of madhesiyouth.com
-        authors: 
-        conference: Make color coded maps, and perform data visualizations using python and R on political, economical and social issues of marginalized groups in Nepal
+      - title: Founder of College Sodhpuch
+        link: "https://collegesodhpuch.com/"
+        tagline: "A college forum where experienced and successful college students from 30 prestigious institutions in several countries provide suggestions and informations to advice seeking college applicants"
+ 
+      - title: Founder of Madhesi Youth
+        link: "https://www.madhesiyouth.com/"
+        tagline: "Make color coded maps, and perform data visualizations using python and R on political, economical and social issues of marginalized groups in Nepal"
+
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python, Django & React
+        level: 88%
 
       - name: Amazon Web Services (AWS)
         level: 85%
 
+      - name: Kubernetes and EKS (AWS)
+        level: 70%
+
       - name: Networking & Computer Security
         level: 84%
 
-      - name: Ansible & Chef
-        level: 80%
-
-      - name: Terraform
-        level: 60%
-
-      - name: PHP & Code Ignitor
-        level: 60%
-
-      - name: C++
-        level: 60%
+      - name: Terraform, Chef & Ansible
+        level: 90%
 
       - name: Blockchain & Cryptography
-        level: 60%
+        level: 50%
+      
+      - name: Leadership
+        level: 68%
 
-      - name: Javascript & jQuery
-        level: 58%
-
-
+      - name: Independent Research
+        level: 68%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

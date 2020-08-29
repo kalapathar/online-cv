@@ -1,0 +1,9 @@
+I"V<p>I was the grader for Hardware Design Class and I graded assignments for 35 students. Apart from being a grader, I also served as an IPv6 researcher. After receiving
+a training on IPv6, I set up a virtual environment to understand the differences between IPv4 and IPv6.</p>
+
+<ul>
+  <li>Developed a python script to auto grade assignments of students</li>
+  <li>Inspect packets and network traffic using Wireshark &amp; understand the packet headers in depth</li>
+  <li>Set up IPv6 lab in virtual environment for testing and find the differences between IPv4/IPv6 before deploying Ipv6</li>
+</ul>
+:ET
