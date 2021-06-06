@@ -1,0 +1,8 @@
+I"õ<p>I am a tech consultant in the Strategy and Analytics offering at Deloitte. I work with tech, health care, life sciences and multiple other clients
+to help them design their data engineering pipeline and make the best out of their datas.</p>
+
+<ul>
+  <li>Modernized the hiring platform by desiging a secure Serverless app (Python and React) and deployed it on AWS</li>
+  <li>Designed the ETL Pipeline using Airflow, Redshift and other DE tools and also deployed ML models on AWS Sagemaker</li>
+</ul>
+:ET

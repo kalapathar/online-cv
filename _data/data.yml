@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Deepak Shah
-    tagline: Cyber Security Engineer at NBC
+    tagline: Applied AI Consultant at Deloitte
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a cyber security engineer at Sports Engine (owned by NBC Sports). Currently I am learning skills and techniques to protect networking systems from potential hackers and cyber-attacks. 
+      I am currently an AI Consultant at Deloitte. I am getting a lot of exposure with wide ranges of clients and I help them design their AI Pipeline. Before Deloitte, I was a cyber security engineer at Sports Engine (owned by NBC Sports) where I designed a safe infrastructure to protect networking systems from potential hackers and cyber-attacks. 
       Before working at Sports Engine, I was a full stack developer at Kipsu in Minneapolis. 
       I graduated from St. Olaf with dual-degrees in Computer Science and Mathematics. 
       Blockchain, Cryptography and Computer Networks are my top interests.
@@ -82,8 +82,19 @@ education:
           - Bullet point 
 
 experiences:
+    - role: Applied AI Consultant
+      time: April 2021 - Present
+      company: Deloitte
+      details: |
+        I am a tech consultant in the Strategy and Analytics offering at Deloitte. I work with tech, health care, life sciences and multiple other clients
+        to help them design their data engineering pipeline and make the best out of their datas. 
+        
+          - Modernized the hiring platform by desiging a secure Serverless app (Python and React) and deployed it on AWS
+          - Designed the ETL Pipeline using Airflow, Redshift and other DE tools and also deployed ML models on AWS Sagemaker
+
+
     - role: Cyber Security Engineer
-      time: 2019 - Present
+      time: Jan 2019 - March 2021
       company: SportsEngine
       details: |
         My work spans multiple skill sets, from Security Engineer to Operations to Software Developer.   
@@ -96,10 +107,11 @@ experiences:
           - Create VPC’s, having multiple AZ’s, Public and Private subnets, Components like IGW, Route tables, NAT instance, Bastion Host, Route 53, Network ACLs, Security groups.
           - Write custom Chef cookbooks to deploy and manage servers in AWS OpsWOrks 
           - Created packer templates to build EC2 AMI and wrote Chef InSpec tests to verify the installed packages and libraries
-          - Future Work - Migrate the existing Opswork Stacks to use containerized platforms - Docker and manage Docker containers using Kubernetes cluster
+          - Migrated the existing Payments Application build on NodeJS (deployed on Opswork) to Kubernetes cluster (EKS)
+          - Analyzed 10M+ logs in Splunk and added exception for WAF Rules to allow the false positives blocked by the Cloudflare WAF
 
     - role: Full Stack Software Engineer
-      time: 2018 - 2019
+      time: June 2018 - Jan 2019
       company: Kipsu, Inc
       details: |
         I got an opportunity to work with mindful, intelligent and humble software developers. Small team environments and pair programming were common. 
@@ -182,6 +194,17 @@ publications:
         link: https://github.com/kalapathar/stovoting/blob/master/paper/Blockchain-based-Voting-Paper.pdf
         authors: Mazen Abusharkh, Syver Johansen, Deepak Shah, Elif Ilaria Yurtseven
         conference: This research paper proposes a voting system solution based on the blockchain. As a secured and transparent ledger, the blockchain introduces a potential solution to a decentralized vote validation and a distributed vote counting mechanism, such that the voters need not trust a third party to facilitate the democratic process. We also demonstrate a sample voting application that can be deployed on the Ethereum blockchain.
+
+apprenticeship:
+    title: Apprenticeships
+    platforms:
+      - title: CS Research Mentorship Program
+        link: "https://research.google/outreach/csrmp/"
+        tagline: "Collaborated with 5 peers to research about security and privacy with the help from a Google Mentor. We used to meet multiple times during a week for 4 months to discuss the latest research papers"
+
+      - title: YCombinator Startup School 2019
+        link: "https://www.startupschool.org/"
+        tagline: "This was a 10 weeks summer program where I met with other founders through weekly live video chats and shared tips as well as learnt about progresses about other startups around the world."
  
         
 conferences:
@@ -192,10 +215,6 @@ conferences:
         authors: 
         conference: Connected with entrepreneurs, civic activists, and thought leaders who are leveraging technology for social impact.
       
-      - title: YCombinator Startup School 2019
-        authors: 
-        conference: This was a 10 weeks summer program where I met with other founders through weekly live video chats and shared tips as well as learnt about progresses about other startups around the world.
-    
       - title: AWS RE:INFORCE 2019
         authors: 
         conference: A cloud-security conference where I learnt about HSM vs KMS Encryption, AWS GuardDuty, VPC Mirroring and many other AWS services

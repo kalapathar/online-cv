@@ -1,4 +1,4 @@
-I"�<p>My work spans multiple skill sets, from Security Engineer to Operations to Software Developer.</p>
+I"D<p>My work spans multiple skill sets, from Security Engineer to Operations to Software Developer.</p>
 
 <ul>
   <li>Leverage security tools and services to protect customer data including intrusion detection systems (ThreatStack), web application firewalls, vulnerability scanners (Qualys), static code analysis tools (Veracode) and more.</li>
@@ -9,6 +9,7 @@
   <li>Create VPC’s, having multiple AZ’s, Public and Private subnets, Components like IGW, Route tables, NAT instance, Bastion Host, Route 53, Network ACLs, Security groups.</li>
   <li>Write custom Chef cookbooks to deploy and manage servers in AWS OpsWOrks</li>
   <li>Created packer templates to build EC2 AMI and wrote Chef InSpec tests to verify the installed packages and libraries</li>
-  <li>Future Work - Migrate the existing Opswork Stacks to use containerized platforms - Docker and manage Docker containers using Kubernetes cluster</li>
+  <li>Migrated the existing Payments Application build on NodeJS (deployed on Opswork) to Kubernetes cluster (EKS)</li>
+  <li>Analyzed 10M+ logs in Splunk and added exception for WAF Rules to allow the false positives blocked by the Cloudflare WAF</li>
 </ul>
 :ET
