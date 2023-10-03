@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Deepak Shah
-    tagline: Applied AI Consultant at Deloitte
+    tagline: Software Engineer III at Duo
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -94,10 +94,13 @@ experiences:
       time: July 2022 - Present
       company: Duo (acquired by Cisco)
       details: |
-        I am a software engineer for Duo Security - its the 2FA that a lot of Fortune 500 companies (including Uber, X, Meta, Airbnb) use. I work in the Risk-Based-Authentication Team.
+        Duo Security provides a cloud-based access protection solution for companies including but not limited to Uber, X, Meta, Airbnb and organizations worldwide. Clients use its solution for adaptive authentication, BYOD (bring your own device) security, cloud security, endpoint security, mobile security, and two-factor authentication.
+        I am Software Engineer III on the Data Engineering team, working on Duo’s threat detection offerings. Developing software to proactively detect anomalous behavior within our customers accounts. 
+        This is accomplished by building out a modern data pipeline (Python, Kafka, Elasticsearch), integrating with our Data Science team's machine learning algorithms (EMR, Spark, Scala), and surfacing it via API and UI (Python, React, D3). Architected Duo's distributed workflow orchestration platform used to coordinate ETL jobs and run ML model training. 
         
-          - Build new features to support RBA (Risk Based Authentication) used by 10, 000+ customers to detect and analyze authentications on their applications 
+          - Build new features to support RBA (Risk Based Authentication) used by 1M+ users 
           - Build secure APIs and design database architecture to help millions of customers authenticate using Duo Mobile app
+          - Work with product managers and UI/UX designers in an agile environment to deliver value to our customers.
 
     - role: Applied AI Consultant
       time: April 2021 - Present
