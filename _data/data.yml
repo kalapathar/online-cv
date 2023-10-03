@@ -53,15 +53,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently an AI Consultant at Deloitte. I am getting a lot of exposure with wide ranges of clients and I help them design their AI Pipeline. Before Deloitte, I was a cyber security engineer at Sports Engine (owned by NBC Sports) where I designed a safe infrastructure to protect networking systems from potential hackers and cyber-attacks. 
-      Before working at Sports Engine, I was a full stack developer at Kipsu in Minneapolis. 
-      I graduated from St. Olaf with dual-degrees in Computer Science and Mathematics. 
-      Blockchain, Cryptography and Computer Networks are my top interests.
+      I am currently a software engineer III at Duo Security. Duo provides a cloud-based access protection solution for companies like Uber, X, Meta, Airbnb and organizations worldwide. Clients use its solution for adaptive authentication, BYOD (bring your own device) security, cloud security, endpoint security, mobile security, and two-factor authentication.
+      Previously, I was an AI Consultant at Deloitte. I got a lot of exposure with wide ranges of clients and I helped them design their AI Pipeline. Before Deloitte, I was a cyber security engineer at Sports Engine (owned by NBC Sports) where I designed a safe infrastructure to protect networking systems from potential hackers and cyber-attacks. 
+      I graduated from St. Olaf with dual-degrees in Computer Science and Mathematics. I am currently pursuing my Masters at NYU while working full-time.
+      Cryptography and Machine Learning are my top interests.
 
       I grew up in southern Nepal and studied at Budhanilkantha School. Having left home at an early age, 
       I had the opportunity to live with people who differ in terms of political views, financial status, religious views, 
       gender identities, citizenship status and a lot more. 
-      My experiences have shaped me to become a kind & genuine mission-driven person and a developer. 
+      My experiences have shaped me to become a kind & genuine mission-driven person and a developer.
 
 education:
     - degree: M.S. in Cyber Security
@@ -94,9 +94,9 @@ experiences:
       time: July 2022 - Present
       company: Duo (acquired by Cisco)
       details: |
-        Duo Security provides a cloud-based access protection solution for companies including but not limited to Uber, X, Meta, Airbnb and organizations worldwide. Clients use its solution for adaptive authentication, BYOD (bring your own device) security, cloud security, endpoint security, mobile security, and two-factor authentication.
+        
         I am Software Engineer III on the Data Engineering team, working on Duo’s threat detection offerings. Developing software to proactively detect anomalous behavior within our customers accounts. 
-        This is accomplished by building out a modern data pipeline (Python, Kafka, Elasticsearch), integrating with our Data Science team's machine learning algorithms (EMR, Spark, Scala), and surfacing it via API and UI (Python, React, D3). Architected Duo's distributed workflow orchestration platform used to coordinate ETL jobs and run ML model training. 
+        This is accomplished by building out a modern data pipeline (Python, Kafka, Elasticsearch), integrating with our Data Science team's machine learning algorithms (EMR, Spark, Scala), and surfacing it via API and UI (Python, React, D3).
         
           - Build new features to support RBA (Risk Based Authentication) used by 1M+ users 
           - Build secure APIs and design database architecture to help millions of customers authenticate using Duo Mobile app
